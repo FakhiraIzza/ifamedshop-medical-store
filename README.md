@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Drugstore Website
 
 This is a React.js based modern, interactive, and responsive drugstore website using Tailwind CSS.
