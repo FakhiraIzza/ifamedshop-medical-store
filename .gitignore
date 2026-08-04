@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor/Windows
+.vscode/
+.DS_Store
+Thumbs.db
