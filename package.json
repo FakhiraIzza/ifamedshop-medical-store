@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
     "name": "drugstore-website",
     "version": "0.1.0",
@@ -37,7 +37,7 @@
         ]
     }
 }
-=======
+
 {
     "name": "drugstore-website",
     "version": "1.0.0",
@@ -71,4 +71,4 @@
         ]
     }
 }
->>>>>>> 477015b4bf5b643a3a604f5e708794bf4e4eba12
+
