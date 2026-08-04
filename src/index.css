@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -10,3 +11,17 @@
   background-color: #6b7280; /* Tailwind gray-500 */
   border-radius: 10px;
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #6b7280; /* Tailwind gray-500 */
+  border-radius: 10px;
+}
+>>>>>>> 477015b4bf5b643a3a604f5e708794bf4e4eba12
