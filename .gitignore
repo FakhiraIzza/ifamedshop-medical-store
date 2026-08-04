@@ -141,3 +141,11 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# React production build
+build/
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
