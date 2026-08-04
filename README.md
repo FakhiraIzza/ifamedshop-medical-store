@@ -21,7 +21,7 @@ This is a React.js based modern, interactive, and responsive drugstore website u
 
 - This is a front-end only demo app without real backend data.
 - The drug search feature is simulated with sample static data.
-=======
+
 # IfaMedShop
 
 IfaMedShop is a responsive single-page medical shop landing page developed as a frontend mini project. The website presents medical services, medicine search functionality, customer testimonials, and contact information through a simple and modern interface.
