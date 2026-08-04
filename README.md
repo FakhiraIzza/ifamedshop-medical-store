@@ -28,9 +28,9 @@ IfaMedShop is a responsive single-page medical shop landing page developed as a 
 
 ## Live Demo
 
-[View Live Website](https://FakhiraIzza.github.io/ifamedshop-medical-store/)
+[View Live Website](https://FakhiraIzza/ifamedshop-medical-store/)
 
-> Replace `USERNAME` with your GitHub username.
+
 
 ## Preview
 
