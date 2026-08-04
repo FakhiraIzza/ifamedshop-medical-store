@@ -75,4 +75,4 @@ DRUGSTORE_ECOMMERCE/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
->>>>>>> 477015b4bf5b643a3a604f5e708794bf4e4eba12
+
